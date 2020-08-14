@@ -13,8 +13,8 @@ hero_media: dataviz_hires.png
 design:
   background:
     # Background gradient
-    gradient_start: '#276174'
-    gradient_end: '#33C58#'
+    gradient_start: '#F4D03F'
+    gradient_end: '#16A085'
 
     # Text color (true=light or false=dark).
     text_color_light: true
