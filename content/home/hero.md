@@ -44,7 +44,7 @@ hero_media = "reforms_plot.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'POSC 6013 | August 2020<br>Department of Political Science<br>Arkansas State University'
+  label = 'POSC 6013 | Fall 2020<br>Department of Political Science<br>Arkansas State University'
 +++
 
 **Quantitative analysis of political phenomena, including research design and analysis, theory formation, hypotheses, analytical techniques, and advanced regression.**
