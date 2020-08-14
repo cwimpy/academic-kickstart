@@ -5,7 +5,7 @@ headless: true
 active: true
 weight: 10
 
-title: "Data Visualization"
+title: "Advanced Political Analysis"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media: dataviz_hires.png
@@ -13,14 +13,14 @@ hero_media: dataviz_hires.png
 design:
   background:
     # Background gradient
-    gradient_start: '#DA413E'
-    gradient_end: '#E16462'
+    gradient_start: '#276174'
+    gradient_end: '#33C58#'
 
     # Text color (true=light or false=dark).
     text_color_light: true
 
 cta_note:
-  label: PMAP 8921 • May 2020<br>Andrew Young School of Policy Studies<br>Georgia State University
+  label: POSC 6013 • August 2020<br>Department of Political Science<br>Arkansas State University
 ---
 
-**Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data**
+**Quantitative analysis of political phenomena, including research design and analysis, theory formation, hypotheses, analytical techniques, and advanced regression.**
