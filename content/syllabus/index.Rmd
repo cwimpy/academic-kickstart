@@ -3,7 +3,7 @@ title: Syllabus
 slug: syllabus
 output:
   blogdown::html_page:
-    toc: true
+    toc: false
     fig_caption: false
 ---
 
@@ -11,16 +11,7 @@ output:
 library(dplyr)
 library(tibble)
 library(pander)
-
-
-library(RefManageR)
-# library(knitcitations)
-# library(rcrossref)
-bib <- ReadBib("~/Library/texmf/bibtex/bib/Master.bib") 
-myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
 ```
-
-`r blogdown::shortcode("courseinfo")`
 
 
 # Course Description
@@ -58,28 +49,6 @@ Your development will be demonstrated by your ability to:
 
 This textbook is required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
 
-```{r, echo = FALSE, results="asis"} 
-bib["Woolridge:2010"]
-``` 
-
-This textbook on regression models in `Stata` is also required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: [978-1597181075](https://www.stata.com/bookstore/interpreting-visualizing-regression-models/). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
-
-```{r, echo = FALSE, results="asis"} 
-bib["Mitchell:2012"]
-``` 
-
-This textbook is recommended. You can search for it online, in the bookstore, and view the publishers website via this ISBN: [978-1316642672](https://doi.org/10.1017/9781108131704). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
-
-```{r, echo = FALSE, results="asis"} 
-bib["Kellstedt:2018"]
-``` 
-
-This companion book on using `Stata` is also recommended. You can search for it online, in the bookstore, and view the publishers website via this ISBN: [978-1108683791](https://doi.org/10.1017/9781108683791).
-
-```{r, echo = FALSE, results="asis"} 
-bib["Kellstedt:2020"]
-``` 
-
 ## Software
 
 This course require the use of the [`Stata`](https://www.stata.com). You can purchase the software if you wish or use the pre-installed versions in the computer labs. In either case, you must have access to a computer that can run `Stata`.  You can get started learning in `Stata` [here](https://www.stata.com/links/video-tutorials/), [here](https://data.princeton.edu/stata/), and [here](https://stats.idre.ucla.edu/stata/modules/). You can also likely use your search engine of choice to find even more, and perhaps better, materials for learning `Stata`. Although I will be teaching you all a lot about `Stata`, I find that students who do additional training often do much better in courses like this. This is in part because people have different learning styles, and there are many ways to go about doing work in `Stata`. This just means that my way may not always be the best way for you. Please keep this in mind as you explore the additional resources.
@@ -110,26 +79,6 @@ This is very much a fluid situation that could change quickly from one class mee
 
 Your grade will consist of your performance on your participation in class, exam performance, and your ability to complete and submit the weekly assignments. The breakdown will be as follows:
 
-```{r grade_weights_data, include=FALSE}
-library(tidyverse)
-library(knitr) 
-library(kableExtra)
-# 
-# dt <- read_csv("weights.csv")
-# dt2 <- read_csv("scale.csv")
-
-```
-
-```{r grade_weights, echo=FALSE}
-# kable(dt, "latex", booktabs = T) %>% kable_styling(latex_options = "striped")
-```
-
-The grading system will follow the [A-State convention](https://www.astate.edu/college/graduate-school/academic-policies/). Letter grades will be assigned as follows:
-
-```{r grade_scale, echo=FALSE}
-# kable(dt2, "latex", booktabs = T) %>% kable_styling(latex_options = "striped")
-```
-
 ## E-mail Policy
 
 When e-mailing, please put POSC 6013: "Your Subject Here" in the subject field. Please also use proper openings and closings to the email. Grammatically correct and polite e-mails relieve much better responses than the alternatives.
@@ -145,13 +94,6 @@ If you have an issue with writing code in `Stata`---and most people do---please 
 5. E-mail the Professor.
 
 With respect to the last three options, you MUST provide a basic working example in order to expect a response. If you say: "hey, my `Stata` don't work", I will expect everyone to ignore you. On the other hand, for example, if you get an error when you enter:
-
-```{stata eval=FALSE}
-Reg y x
-
-command Reg not defined by Reg.ado
-r(199);
-```
 
 into the `Stata` command line, then you should expect to get helpful feedback from one of us in the order provided. Along these same lines, classmates with the time and wherewithal to provide assistance to their colleagues will be highly appreciated by everyone in the course---including Dr. Wimpy and any Graduate Assistants.^[You get this error as the command is either `reg` or `regress`—in both cases the commands are lower case.]
 
