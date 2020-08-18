@@ -1,18 +1,7 @@
 ---
 title: Syllabus
 slug: syllabus
-output:
-  blogdown::html_page:
-    toc: false
-    fig_caption: false
 ---
-
-```{r setup, message=FALSE, warning=FALSE, include=FALSE}
-library(dplyr)
-library(tibble)
-library(pander)
-```
-
 
 # Course Description
 
