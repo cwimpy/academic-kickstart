@@ -25,7 +25,7 @@
   
 [[main]]
   name = '<i class="fab fa-slack"></i>'
-  url = "posc-6013.slack.com"
+  url = "https://posc-6013.slack.com"
   weight = 50
   
 [[main]]
