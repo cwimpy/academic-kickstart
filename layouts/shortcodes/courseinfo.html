@@ -1,13 +1,13 @@
 <div class="row">
     <div class="col-md-4">
-        <h3>Instructor</h3>
+        <h3>Professor</h3>
 
         <ul class="icon-list">
-            <li><i class="fas fa-user"></i> <a href="{{ .Site.Params.instructor.url }}" target="_blank" rel="noopener"> {{ .Site.Params.instructor.name }}</a></li>
-            <li><i class="fas fa-university"></i> {{ .Site.Params.instructor.office }}</li>
-            <li><i class="fas fa-envelope"></i> <a href="mailto:{{ .Site.Params.instructor.email }}"> {{ .Site.Params.instructor.email }}</a></li>
-            <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ .Site.Params.instructor.twitter }}" target="_blank" rel="noopener"> @{{ .Site.Params.instructor.twitter }}</a></li>
-            <li><i class="fas fa-calendar-check"></i> <a href="{{ .Site.Params.instructor.appointment_url }}" target="_blank" rel="noopener"> Schedule an appointment</a></li>
+            <li><i class="fas fa-user"></i> <a href="cwimpy.com" target="_blank" rel="noopener">Cameron Wimpy</a></li>
+            <li><i class="fas fa-university"></i>HSS 3022</li>
+            <li><i class="fas fa-envelope"></i> <a href="mailto:cwimpy@astate.edu">cwimpy@astate.edu</a></li>
+            <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/camwimpy" target="_blank" rel="noopener"> @camwimpy</a></li>
+            <li><i class="fas fa-calendar-check"></i> <a href="https://calendly.com/cwimpy/meeting-with-dr-wimpy" target="_blank" rel="noopener"> Make an appointment</a></li>
         </ul>
     </div>
 
@@ -15,11 +15,11 @@
         <h3>Course details</h3>
 
         <ul class="icon-list">
-            <li><i class="far fa-calendar"></i> {{ .Site.Params.course.days }}</li>
-            <li><i class="far fa-calendar-alt"></i> {{ .Site.Params.course.dates }}</li>
-            <li><i class="far fa-clock"></i> {{ .Site.Params.course.time }}</li>
-            {{ if isset .Site.Params.course "location" }}<li><i class="fas fa-university"></i> {{ .Site.Params.course.location }}</li>{{end}}
-            {{ if isset .Site.Params.course "slack" }}<li><i class="fab fa-slack"></i> <a href="{{ .Site.Params.course.slack }}" target="_blank" rel="noopener">Slack</a></li>{{ end }}
+            <li><i class="far fa-calendar"></i>Tuesdays</li>
+            <li><i class="far fa-calendar-alt"></i>Fall 20202</li>
+            <li><i class="far fa-clock"></i>1–3:50 p.m.</li>
+            <li><i class="fas fa-university"></i><a href="https://tour.astate.edu/#ctdl-UMAP_2019091977876,BLD_2019120901033">HSS 3035</a>.</li>
+            <li><i class="fab fa-slack"></i> <a href="posc-6013.slack.com" target="_blank" rel="noopener">Slack</a></li>
         </ul>
     </div>
 
