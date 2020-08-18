@@ -27,6 +27,12 @@
   name = '<i class="fab fa-slack"></i>'
   url = "posc-6013.slack.com"
   weight = 50
+  
+[[main]]
+  name = '<i class="fab fa-r-project"></i>'
+  url = "https://www.r-project.org"
+  weight = 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
