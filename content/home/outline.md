@@ -15,3 +15,4 @@ design:
     padding: [20px, 0, 10px, 0]
 ---
 
+{{< courseinfo >}}
