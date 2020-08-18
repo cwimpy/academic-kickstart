@@ -38,24 +38,25 @@ Your development will be demonstrated by your ability to:
 
 This textbook is required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
 
-- Wooldridge, Jeffrey W. (2010). Econometric Analysis of Cross Section and Panel Data. Cambridge, MA: MIT Press.
+- Wooldridge, Jeffrey W. 2010. _Econometric Analysis of Cross Section and Panel Data_. Cambridge, MA: MIT Press.
 
 This textbook on regression models in Stata is also required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: 978-1597181075. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
 
-- Mitchell, Michael N. (2012). Interpreting and Visualizing Regression Models Using Stata. College Station, TX: Stata Press.
+- Mitchell, Michael N. 2012. _Interpreting and Visualizing Regression Models Using Stata_. College Station, TX: Stata Press.
 
 This textbook is recommended. You can search for it online, in the bookstore, and view the publish- ers website via this ISBN: 978-1316642672. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
 
-- Kellstedt, Paul M. and Guy D. Whitten (2018). The Fundamentals of Political Science Research. New York: Cambridge University Press.
+- Kellstedt, Paul M. and Guy D. Whitten 2018. _The Fundamentals of Political Science Research_. New York: Cambridge University Press.
 
 This companion book on using Stata is also recommended. You can search for it online, in the bookstore, and view the publishers website via this ISBN: 978-1108683791.
-- Kellstedt, Paul M. and Guy D. Whitten (2020). A Stata Companion for the Third Edition of The Fundamentals of Political Science Research. New York: Cambridge University Press.
+
+- Kellstedt, Paul M. and Guy D. Whitten 2020. _A Stata Companion for the Third Edition of The Fundamentals of Political Science Research_. New York: Cambridge University Press.
 
 ### Software
 
 This course require the use of the [`Stata`](https://www.stata.com). You can purchase the software if you wish or use the pre-installed versions in the computer labs. In either case, you must have access to a computer that can run `Stata`.  You can get started learning in `Stata` [here](https://www.stata.com/links/video-tutorials/), [here](https://data.princeton.edu/stata/), and [here](https://stats.idre.ucla.edu/stata/modules/). You can also likely use your search engine of choice to find even more, and perhaps better, materials for learning `Stata`. Although I will be teaching you all a lot about `Stata`, I find that students who do additional training often do much better in courses like this. This is in part because people have different learning styles, and there are many ways to go about doing work in `Stata`. This just means that my way may not always be the best way for you. Please keep this in mind as you explore the additional resources.
 
-Why are we using `Stata` and not something else like `SPSS` or `R`? There are several answers, but the simplest is that `Stata` is an econometric software package that was designed to the types of analyses most commonly employed by political scientists and public administrators. Usage of `SPSS` has declined while many folks are also moving to the open source statistical environment `R`---myself included for many applications. But when it comes to classic econometrics `Stata` remains quite difficult to beat. `Stata` is also more accessible than `R` when it comes to learning many of these tools quickly. Having said that, my own preferences are trending towards `R` for most applications---espescially data vizualization via the `ggplot2` and broader `tidyverse` packages. If there is interest, we can spend some time learning these tools as well. 
+Why are we using `Stata` and not something else like `SPSS` or `R`? There are several answers, but the simplest is that `Stata` is an econometric software package that was designed to the types of analyses most commonly employed by political scientists and public administrators. Usage of `SPSS` has declined while many folks are also moving to the open source statistical environment `R`---myself included for many applications. But when it comes to classic econometrics `Stata` remains quite difficult to beat. `Stata` is also more accessible than `R` when it comes to learning many of these tools quickly. Having said that, my own preferences are trending towards `R` for most applications---especially data visualization via the `ggplot2` and broader `tidyverse` packages. If there is interest, we can spend some time learning these tools as well. 
 
 ### Technology
 
@@ -80,6 +81,23 @@ This is very much a fluid situation that could change quickly from one class mee
 ### Grading Policy
 
 Your grade will consist of your performance on your participation in class, exam performance, and your ability to complete and submit the weekly assignments. The breakdown will be as follows:
+
+
+| Item          | Weight |
+|---------------|--------|
+| Assignments   | 50%    |
+| Exam 1        | 15%    |
+| Exam 2        | 25%    |
+| Participation | 10%    |
+
+The grading system will follow the [A-State convention](https://www.astate.edu/college/graduate-school/academic-policies/). Letter grades will be assigned as follows:
+
+| Letter Grade  | Range      |
+|---------------|------------|
+| A             | 89.5–100   |
+| B             | 79.5–89.4  |
+| C             | 69.5–79.4  |
+| F             | 00.0-69.4  |
 
 ### E-mail Policy
 
