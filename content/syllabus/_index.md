@@ -38,6 +38,19 @@ Your development will be demonstrated by your ability to:
 
 This textbook is required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
 
+- Wooldridge, Jeffrey W. (2010). Econometric Analysis of Cross Section and Panel Data. Cambridge, MA: MIT Press.
+
+This textbook on regression models in Stata is also required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: 978-1597181075. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
+
+- Mitchell, Michael N. (2012). Interpreting and Visualizing Regression Models Using Stata. College Station, TX: Stata Press.
+
+This textbook is recommended. You can search for it online, in the bookstore, and view the publish- ers website via this ISBN: 978-1316642672. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
+
+- Kellstedt, Paul M. and Guy D. Whitten (2018). The Fundamentals of Political Science Research. New York: Cambridge University Press.
+
+This companion book on using Stata is also recommended. You can search for it online, in the bookstore, and view the publishers website via this ISBN: 978-1108683791.
+- Kellstedt, Paul M. and Guy D. Whitten (2020). A Stata Companion for the Third Edition of The Fundamentals of Political Science Research. New York: Cambridge University Press.
+
 ### Software
 
 This course require the use of the [`Stata`](https://www.stata.com). You can purchase the software if you wish or use the pre-installed versions in the computer labs. In either case, you must have access to a computer that can run `Stata`.  You can get started learning in `Stata` [here](https://www.stata.com/links/video-tutorials/), [here](https://data.princeton.edu/stata/), and [here](https://stats.idre.ucla.edu/stata/modules/). You can also likely use your search engine of choice to find even more, and perhaps better, materials for learning `Stata`. Although I will be teaching you all a lot about `Stata`, I find that students who do additional training often do much better in courses like this. This is in part because people have different learning styles, and there are many ways to go about doing work in `Stata`. This just means that my way may not always be the best way for you. Please keep this in mind as you explore the additional resources.
@@ -83,6 +96,13 @@ If you have an issue with writing code in `Stata`---and most people do---please 
 5. E-mail the Professor.
 
 With respect to the last three options, you MUST provide a basic working example in order to expect a response. If you say: "hey, my `Stata` don't work", I will expect everyone to ignore you. On the other hand, for example, if you get an error when you enter:
+
+````
+Reg y x
+
+command Reg not defined by Reg.ado .
+r(199);
+```
 
 into the `Stata` command line, then you should expect to get helpful feedback from one of us in the order provided. Along these same lines, classmates with the time and wherewithal to provide assistance to their colleagues will be highly appreciated by everyone in the course---including Dr. Wimpy and any Graduate Assistants.^[You get this error as the command is either `reg` or `regress`—in both cases the commands are lower case.]
 
