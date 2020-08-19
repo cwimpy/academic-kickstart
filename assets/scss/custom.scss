@@ -28,12 +28,12 @@ kbd {
 }
 
 #hero img {
-    max-width: 100%;
+    max-width: 120%;
 }
 
 .hero-title {
-    line-height: 1.2;
-    font-weight: 700;
+    line-height: 1.1;
+    font-weight: 600;
 }
 
 .icon-list {
@@ -66,20 +66,6 @@ footer p {
 
 .course-info p, .credits p {
     margin-bottom: 0.3rem;
-}
-
-.centered-table table {
-    margin: 0 auto 1rem;
-}
-
-table.center {
-    margin-left:auto; 
-    margin-right:auto;
-  }
-
-th {
-  background-color: #1265a4;
-  color: white;
 }
 
 .article-style #TOC:before {
@@ -142,7 +128,13 @@ div.warning:before {
 }
 
 table {
-    width: 50%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
+}
+
+th {
+  background-color: #1265a4;
+  color: white;
+  height: 50px;
 }
