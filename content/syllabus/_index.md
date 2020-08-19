@@ -3,6 +3,8 @@ title: Syllabus
 slug: syllabus
 ---
 
+{{< courseinfo >}}
+
 ## Course Description
 
 This course focuses on the: *Quantitative analysis of political phenomena, including research design and analysis, theory formation, hypotheses, analytical techniques, and advanced regression.* This is accomplished by building on the foundational materials presented in POSC 6003 to expand our understanding of generalized linear models, interpretation, and applied econometrics. A familiarity with basic mathematical principles, linear algebra, and elementary calculus are helpful but not required. Elementary programming skills are also useful but not required. All efforts will be made to ensure course materials are accessible and presented in as basic terms as possible. If at any time a student is struggling to grasp the concepts for a given topic, please contact Dr. Wimpy immediately. 
