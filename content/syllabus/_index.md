@@ -81,8 +81,6 @@ This is very much a fluid situation that could change quickly from one class mee
 ### Grading Policy
 
 Your grade will consist of your performance on your participation in class, exam performance, and your ability to complete and submit the weekly assignments. The breakdown will be as follows:
-
-<div style="text-align:center;">
 	 
 | Item          | Weight |
 |---------------|--------|
@@ -91,7 +89,6 @@ Your grade will consist of your performance on your participation in class, exam
 | Exam 2        | 25%    |
 | Participation | 10%    |
 
-</div>
  
 The grading system will follow the [A-State convention](https://www.astate.edu/college/graduate-school/academic-policies/). Letter grades will be assigned as follows:
 
