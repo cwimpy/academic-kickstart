@@ -22,4 +22,4 @@ Every class session has four important sections. You should read about the detai
 
 --- -->
 
-{{< schedule >}}
+<!-- {{< schedule >}} -->
