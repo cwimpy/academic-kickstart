@@ -82,13 +82,40 @@ This is very much a fluid situation that could change quickly from one class mee
 
 Your grade will consist of your performance on your participation in class, exam performance, and your ability to complete and submit the weekly assignments. The breakdown will be as follows:
 	 
-| Item          | Weight |
-|---------------|--------|
-| Assignments   | 50%    |
-| Exam 1        | 15%    |
-| Exam 2        | 25%    |
-| Participation | 10%    |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Item</th>
+    <th class="tg-0pky">Weight</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Assignments</td>
+    <td class="tg-0pky">50%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Exam 1</td>
+    <td class="tg-0pky">15%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Exam 2</td>
+    <td class="tg-0pky">25%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Participation</td>
+    <td class="tg-0pky">10%</td>
+  </tr>
+</tbody>
+</table>
  
 The grading system will follow the [A-State convention](https://www.astate.edu/college/graduate-school/academic-policies/). Letter grades will be assigned as follows:
 
