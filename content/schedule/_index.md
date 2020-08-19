@@ -3,7 +3,7 @@ title: "Schedule"
 slug: schedule
 ---
 
-Here's your roadmap for the mini-mester!
+<!-- Here's your roadmap for the mini-mester!
 
 Every class session has four important sections. You should read about the details for each using the main menu at the top of this webpage.
 
@@ -20,6 +20,6 @@ Every class session has four important sections. You should read about the detai
 - Complete the assignment (<i class="fas fa-pencil-ruler"></i>) while referencing the example (<i class="fas fa-laptop-code"></i>)
 :::
 
----
+--- -->
 
 {{< schedule >}}
