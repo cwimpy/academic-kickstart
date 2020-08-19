@@ -93,12 +93,12 @@ Your grade will consist of your performance on your participation in class, exam
  
 The grading system will follow the [A-State convention](https://www.astate.edu/college/graduate-school/academic-policies/). Letter grades will be assigned as follows:
 
-| Letter Grade  | Range      |
-|---------------|------------|
-| A             | 89.5–100   |
-| B             | 79.5–89.4  |
-| C             | 69.5–79.4  |
-| F             | 00.0-69.4  |
+| Letter Grade  | Range       |
+|---------------|------------:|
+| A             | 89.5–100    |
+| B             | 79.5–89.4   |
+| C             | 69.5–79.4   |
+| F             | 00.0-69.4   |
 
 ### E-mail Policy
 
