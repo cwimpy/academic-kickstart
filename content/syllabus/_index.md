@@ -82,7 +82,7 @@ This is very much a fluid situation that could change quickly from one class mee
 
 Your grade will consist of your performance on your participation in class, exam performance, and your ability to complete and submit the weekly assignments. The breakdown will be as follows:
 
-<table class="center">
+<div style="text-align:center;">
 	 
 | Item          | Weight |
 |---------------|--------|
@@ -91,7 +91,7 @@ Your grade will consist of your performance on your participation in class, exam
 | Exam 2        | 25%    |
 | Participation | 10%    |
 
- </table>
+</div>
  
 The grading system will follow the [A-State convention](https://www.astate.edu/college/graduate-school/academic-policies/). Letter grades will be assigned as follows:
 
@@ -118,11 +118,12 @@ If you have an issue with writing code in `Stata`---and most people do---please 
 
 With respect to the last three options, you MUST provide a basic working example in order to expect a response. If you say: "hey, my `Stata` don't work", I will expect everyone to ignore you. On the other hand, for example, if you get an error when you enter:
 
-````
+```
 Reg y x
 
-command Reg not defined by Reg.ado .
+command Reg not defined by Reg.ado
 r(199);
+
 ```
 
 into the `Stata` command line, then you should expect to get helpful feedback from one of us in the order provided. Along these same lines, classmates with the time and wherewithal to provide assistance to their colleagues will be highly appreciated by everyone in the course---including Dr. Wimpy and any Graduate Assistants.^[You get this error as the command is either `reg` or `regress`—in both cases the commands are lower case.]
