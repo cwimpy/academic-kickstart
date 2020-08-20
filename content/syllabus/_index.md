@@ -41,7 +41,7 @@ Your development will be demonstrated by your ability to:
 This textbook is required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
 
 <p class="hangingindent">
-Wooldridge, Jeffrey W. 2010. *Econometric Analysis of Cross Section and Panel Data*. Cambridge, MA: MIT Press.
+Wooldridge, Jeffrey W. 2010. <em>Econometric Analysis of Cross Section and Panel Data</em>. Cambridge, MA: MIT Press.
 <p>
 	
 This textbook on regression models in Stata is also required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: [978-1597181075](https://www.stata.com/bookstore/interpreting-visualizing-regression-models/). You may consider an earlier edition, but do not expect me to translate any differences between the versions.
