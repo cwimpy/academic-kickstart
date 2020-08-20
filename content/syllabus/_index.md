@@ -41,25 +41,25 @@ Your development will be demonstrated by your ability to:
 This textbook is required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
 
 <p class="hangingindent">
-Wooldridge, Jeffrey W. 2010. *Econometric Analysis of Cross Section and Panel Data*. Cambridge, MA: MIT Press.
+Wooldridge, Jeffrey W. 2010. <span class="italic">Econometric Analysis of Cross Section and Panel Data</span>. Cambridge, MA: MIT Press.
 </p>
 	
 This textbook on regression models in Stata is also required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: 978-1597181075. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
 
 <p class="hangingindent">
-Mitchell, Michael N. 2012. *Interpreting and Visualizing Regression Models Using Stata*. College Station, TX: Stata Press.
+Mitchell, Michael N. 2012. <span class="italic">Interpreting and Visualizing Regression Models Using Stata</span>. College Station, TX: Stata Press.
 </p>
 
 This textbook is recommended. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: 978-1316642672. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
 
 <p class="hangingindent">
-Kellstedt, Paul M. and Guy D. Whitten 2018. *The Fundamentals of Political Science Research*. New York: Cambridge University Press.
+Kellstedt, Paul M. and Guy D. Whitten 2018. <span class="italic">The Fundamentals of Political Science Research</span>. New York: Cambridge University Press.
 </p>
 
 This companion book on using Stata is also recommended. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: 978-1108683791.
 
 <p class="hangingindent">
-Kellstedt, Paul M. and Guy D. Whitten 2020. *A Stata Companion for the Third Edition of The Fundamentals of Political Science Research*. New York: Cambridge University Press.
+Kellstedt, Paul M. and Guy D. Whitten 2020. <span class="italic">A Stata Companion for the Third Edition of The Fundamentals of Political Science Research</span>. New York: Cambridge University Press.
 </p>
 
 ### Software
