@@ -140,7 +140,9 @@ r(199);
 
 ```
 
-into the `Stata` command line, then you should expect to get helpful feedback from one of us in the order provided. Along these same lines, classmates with the time and wherewithal to provide assistance to their colleagues will be highly appreciated by everyone in the course---including Dr. Wimpy and any Graduate Assistants.[^1] [^1]:You get this error as the command is either `reg` or `regress`—in both cases the commands are lower case.
+into the `Stata` command line, then you should expect to get helpful feedback from one of us in the order provided. Along these same lines, classmates with the time and wherewithal to provide assistance to their colleagues will be highly appreciated by everyone in the course---including Dr. Wimpy and any Graduate Assistants.[^1] 
+
+[^1]: You get this error as the command is either `reg` or `regress`—in both cases the commands are lower case.
 
 ### Make-Up Exam Policy
 
