@@ -29,10 +29,10 @@ lessons:
     content: "04-content"
     example: "04-example"
     assignment: "04-exercise"
-	
+
   - title: '<span class="fake-header-table">Core types of graphics</span>'
     header: True
-
+	
   - title: 'Themes'
     session: 5
     date: "September 22"
