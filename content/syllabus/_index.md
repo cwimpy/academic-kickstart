@@ -76,7 +76,9 @@ You will need to use your A-State email and have access to Blackboard. Otherwise
 
 ### Weekly Problem Sets in `Stata`
 
-Each week, even on exam weeks, we will have a series of homework questions from the text. This are graded with partial credit, but no effort will result in a lower grade. We will also have relatively short assignments to complete using `Stata`. These are graded on a good faith effort basis, and as long as a clear/reasonable attempt was made you should receive full credit. Students having issues using `Stata` will need to schedule time with the Professor in order to make sure they understand where they are struggling and how to improve. Students that fail to do this will likely experience difficulty with the take-home portion of the exams (see below), which are graded on merit. Incomplete efforts on the problem sets will be downgraded accordingly and any missed assignments will receive a zero. __All assignments requiring a document submission must be submitted as PDF files__. Note that MS Office is free for A-State students and you can easily use it to create a PDF file by using File>Save As and the selecting PDF. More details will be provided on this early in the course. __All assignments that require document submission must have filenames that follow this convention: `your last name_assignment#.file extension`.__ As an example for myself and assignment one, I would do the following:  `wimpy_assignment1.pdf`. Failure to follow this convention will be met first with a warning, second with ten points off, and finally a zero after the third time. All assignments are due via email to Dr. Wimpy on the Sunday before class at 11:59 p.m.^[Note that you can also use the various implementations of `Stata` Markdown to make PDFs. Ask Dr. Wimpy if you are interested.] 
+Each week, even on exam weeks, we will have a series of homework questions from the text. This are graded with partial credit, but no effort will result in a lower grade. We will also have relatively short assignments to complete using `Stata`. These are graded on a good faith effort basis, and as long as a clear/reasonable attempt was made you should receive full credit. Students having issues using `Stata` will need to schedule time with the Professor in order to make sure they understand where they are struggling and how to improve. Students that fail to do this will likely experience difficulty with the take-home portion of the exams (see below), which are graded on merit. Incomplete efforts on the problem sets will be downgraded accordingly and any missed assignments will receive a zero. __All assignments requiring a document submission must be submitted as PDF files__. Note that MS Office is free for A-State students and you can easily use it to create a PDF file by using File>Save As and the selecting PDF. More details will be provided on this early in the course. __All assignments that require document submission must have filenames that follow this convention: `your last name_assignment#.file extension`.__ As an example for myself and assignment one, I would do the following:  `wimpy_assignment1.pdf`. Failure to follow this convention will be met first with a warning, second with ten points off, and finally a zero after the third time. All assignments are due via email to Dr. Wimpy on the Sunday before class at 11:59 p.m.[^2]
+
+[^2]: Note that you can also use the various implementations of `Stata` Markdown to make PDFs. Ask Dr. Wimpy if you are interested.
 
 ### Exams
 
@@ -142,9 +144,9 @@ r(199);
 
 ```
 
-into the `Stata` command line, then you should expect to get helpful feedback from one of us in the order provided. Along these same lines, classmates with the time and wherewithal to provide assistance to their colleagues will be highly appreciated by everyone in the course---including Dr. Wimpy and any Graduate Assistants.[^2] 
+into the `Stata` command line, then you should expect to get helpful feedback from one of us in the order provided. Along these same lines, classmates with the time and wherewithal to provide assistance to their colleagues will be highly appreciated by everyone in the course---including Dr. Wimpy and any Graduate Assistants.[^3] 
 
-[^2]: You get this error as the command is either `reg` or `regress`—in both cases the commands are lower case.
+[^3]: You get this error as the command is either `reg` or `regress`—in both cases the commands are lower case.
 
 ### Make-Up Exam Policy
 
