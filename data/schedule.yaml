@@ -47,7 +47,7 @@ lessons:
     example: "06-example"
     assignment: "06-exercise"
 
-  - title: '<i class="fas fa-brain"></i>  **Mid-Term Exam** <i class="fas fa-brain"></i>'
+  - title: '<i class="fas fa-brain" ></i>  **Mid-Term Exam** <i class="fas fa-brain"></i>'
     date: "October 6"
     assignment: "01-mini-project"
 
