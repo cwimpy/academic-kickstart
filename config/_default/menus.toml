@@ -39,7 +39,7 @@
   weight = 70
   
 [[main]]
-  name = '`Stata`'
+  name = 'Stata'
   url = "https://stata.com"
   weight = 80
 
