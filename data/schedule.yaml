@@ -29,6 +29,9 @@ lessons:
     content: "04-content"
     example: "04-example"
     assignment: "04-exercise"
+	
+  - title: '<span class="fake-header-table">The Linear Model</span>'
+    header: True
 
   - title: 'Themes'
     session: 5
