@@ -27,7 +27,6 @@ lessons:
     session: 4
     date: "September 15"
     content: "04-content"
-    lesson: "04-lesson"
     example: "04-example"
     assignment: "04-exercise"
 
@@ -44,10 +43,10 @@ lessons:
     content: "06-content"
     example: "06-example"
     assignment: "06-exercise"
-   
-  # - title: '<i class="fas fa-star"></i> **Mid-Term Exam**'
-  #   date: "October 6"
-  #   assignment: "01-mini-project"
+
+  - title: '<i class="fas fa-star"></i> **Mid-Term Exam**'
+    date: "October 6"
+    assignment: "01-mini-project"
 	
   - title: 'Comparisons'
     session: 8
