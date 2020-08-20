@@ -23,6 +23,9 @@ lessons:
     example: "03-example"
     assignment: "03-exercise"
 
+  - title: '<span class="fake-header-table">Core types of graphics</span>'
+    header: True
+
   - title: 'The Linear Model in Practice II: Interactions, Marginal Effects, and Simulating Quantities of Interest'
     session: 4
     date: "September 15"
@@ -30,9 +33,6 @@ lessons:
     example: "04-example"
     assignment: "04-exercise"
 
-  - title: '<span class="fake-header-table">Core types of graphics</span>'
-    header: True
-	
   - title: 'Themes'
     session: 5
     date: "September 22"
