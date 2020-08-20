@@ -43,20 +43,13 @@ lessons:
     content: "06-content"
     example: "06-example"
     assignment: "06-exercise"
-	
-  - title: 'Uncertainty'
-    session: 6
-    date: "September 29"
-    content: "06-content"
-    example: "06-example"
-    assignment: "06-exercise"
-   
-  - title: 'Relationships'
+
+  - title: 'Mid Term Exam'
     session: 7
-    date: "May 19"
-    content: "07-content"
-    example: "07-example"
-    assignment: "07-exercise"
+    date: "October 6"
+    content: ""
+    example: ""
+    assignment: ""
 
   - title: 'Comparisons'
     session: 8
