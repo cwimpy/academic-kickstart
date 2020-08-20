@@ -7,7 +7,7 @@ slug: syllabus
 
 ## Course Description
 
-This course focuses on the: *Quantitative analysis of political phenomena, including research design and analysis, theory formation, hypotheses, analytical techniques, and advanced regression.* This is accomplished by building on the foundational materials presented in POSC 6003 to expand our understanding of generalized linear models, interpretation, and applied econometrics. A familiarity with basic mathematical principles, linear algebra, and elementary calculus are helpful but not required. Elementary programming skills are also useful but not required. All efforts will be made to ensure course materials are accessible and presented in as basic terms as possible. If at any time a student is struggling to grasp the concepts for a given topic, please contact Dr. Wimpy immediately. 
+This course focuses on the: *Quantitative analysis of political phenomena, including research design and analysis, theory formation, hypotheses, analytical techniques, and advanced regression.* This is accomplished by building on the foundational materials presented in POSC 6003 to expand our understanding of generalized linear models, interpretation, applied econometrics, and learning about the tools available to professional political scientists. A familiarity with basic mathematical principles, linear algebra, and elementary calculus are helpful but not required. Elementary programming skills are also useful but not required. All efforts will be made to ensure course materials are accessible as possible. If, at any time, you are struggling to grasp the concepts for a given topic, please contact Dr. Wimpy immediately. 
 
 
 ## Course Learning Objectives
@@ -28,7 +28,7 @@ This course focuses on the: *Quantitative analysis of political phenomena, inclu
 
 Your development will be demonstrated by your ability to:
 
-1. Solve econometric and statistical problems using `Stata`.
+1. Solve econometric and statistical problems using `Stata` and `R`.
 2. Identify appropriate techniques and functions for evaluating advanced quantitative research problems. 
 3. Apply advanced problem-solving and data analysis skills to theoretical problems from the literature.
 
@@ -40,8 +40,10 @@ Your development will be demonstrated by your ability to:
 
 This textbook is required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
 
-- Wooldridge, Jeffrey W. 2010. _Econometric Analysis of Cross Section and Panel Data_. Cambridge, MA: MIT Press.
-
+<p class="hangingindent">
+Wooldridge, Jeffrey W. 2010. _Econometric Analysis of Cross Section and Panel Data_. Cambridge, MA: MIT Press.
+</p>
+	
 This textbook on regression models in Stata is also required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: 978-1597181075. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
 
 - Mitchell, Michael N. 2012. _Interpreting and Visualizing Regression Models Using Stata_. College Station, TX: Stata Press.
