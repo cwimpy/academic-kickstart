@@ -29,13 +29,13 @@
   weight = 50
   
 [[main]]
-  name = '<i class="fab fa-slack"></i>'
-  url = "https://posc-6013.slack.com"
+  name = '<i class="fab fa-r-project"></i>'
+  url = "https://www.r-project.org"
   weight = 60
   
 [[main]]
-  name = '<i class="fab fa-r-project"></i>'
-  url = "https://www.r-project.org"
+  name = '<i class="fab fa-slack"></i>'
+  url = "https://posc-6013.slack.com"
   weight = 70
   
 [[main]]
