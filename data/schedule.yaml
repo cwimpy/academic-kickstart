@@ -1,5 +1,5 @@
 lessons:
-  - title: '<span class="fake-header-table">The Linear Model</span>'
+  - title: '<span class="fake-header-table">Topics</span>'
     header: True
 
   - title: 'Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra'
@@ -29,9 +29,6 @@ lessons:
     content: "04-content"
     example: "04-example"
     assignment: "04-exercise"
-	
-  - title: '<span class="fake-header-table">The Linear Model</span>'
-    header: True
 
   - title: 'Themes'
     session: 5
