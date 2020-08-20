@@ -38,19 +38,19 @@ Your development will be demonstrated by your ability to:
 
 ### Textbooks
 
-This textbook is required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
+This textbook is required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: [978-0262232586](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition). You may consider an earlier edition, but do not expect me to translate any differences between the versions. 
 
 - Wooldridge, Jeffrey W. 2010. _Econometric Analysis of Cross Section and Panel Data_. Cambridge, MA: MIT Press.
 
-This textbook on regression models in Stata is also required. You can search for it online, in the bookstore, and view the publishers website via this ISBN: 978-1597181075. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
+This textbook on regression models in Stata is also required. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: 978-1597181075. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
 
 - Mitchell, Michael N. 2012. _Interpreting and Visualizing Regression Models Using Stata_. College Station, TX: Stata Press.
 
-This textbook is recommended. You can search for it online, in the bookstore, and view the publish- ers website via this ISBN: 978-1316642672. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
+This textbook is recommended. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: 978-1316642672. You may consider an earlier edition, but do not expect me to translate any differences between the versions.
 
 - Kellstedt, Paul M. and Guy D. Whitten 2018. _The Fundamentals of Political Science Research_. New York: Cambridge University Press.
 
-This companion book on using Stata is also recommended. You can search for it online, in the bookstore, and view the publishers website via this ISBN: 978-1108683791.
+This companion book on using Stata is also recommended. You can search for it online, in the bookstore, and view the publisher's website via this ISBN: 978-1108683791.
 
 - Kellstedt, Paul M. and Guy D. Whitten 2020. _A Stata Companion for the Third Edition of The Fundamentals of Political Science Research_. New York: Cambridge University Press.
 
@@ -62,7 +62,7 @@ Why are we using `Stata` and not something else like `SPSS` or `R`? There are se
 
 ### Technology
 
-You will need to use your A-State email and have access to Blackboard. Otherwise assignments may be deployed via Dropbox or my website. If there is any issue with these items you should me know by the second week seminar at the latest. 
+You will need to use your A-State email and have access to Blackboard. Otherwise assignments may be deployed via Dropbox or my website. If there is any issue with these items you should me know by the second week seminar at the latest. In the event we move to online instruction (see below) you will need a functioning webcam and reliable internet connection. 
 
 ### Weekly Problem Sets in `Stata`
 
@@ -78,7 +78,14 @@ The course policies that follow are subject to change, but assume they are in ef
 
 ### COVID-19 Pandemic
 
-This is very much a fluid situation that could change quickly from one class meeting to the next. Given our relatively small room size and larger classroom size we will plan to meet in person each week per university guidelines. If conditions change, we will alter our course meeting place, delivery format, and materials as needed. Further information on the pandemic, and the university response, can be found here: <https://www.astate.edu/safety/novel-coronavirus/return-to-learn/>.
+[Arkansas State University](http://astate.edu) has made every effort to provide a safe and comfortable learning environment for our return to in-person instruction during the Fall 2020 semester. The University is following the most up-to-date guidelines set forth by the Arkansas Department of Health and the Centers for Disease Control and Prevention. 
+
+Given the uncertainty surrounding the continuing threat from the COVID-19 pandemic, we acknowledge there is potential for the interruption of in-person instruction during the course of this semester. While it is the goal of the institution to offer traditionally face-to-face classes, the social distancing measures arising out of the COVID-19 pandemic have caused many of the classes to be offered in a hybrid format this semester (i.e., a combination of face-to-face and remote modes of delivery). This means nearly every course offered will have a component where internet access is essential to course success. Students are strongly encouraged to secure WIFI access they can use for the semester either on or off campus. The purpose for this strategy is to protect our students, faculty, and staff while adhering to social distancing recommendations from public health officials while accomplishing the course learning objectives. 
+
+If the university transitions to all-online instruction, campus housing will remain available for students who do not have a safe place to move or who do not have access to the internet elsewhere. Students who leave campus will need to ensure that they have reliable access to the internet to continue their course work. Web cameras may also be required by instructors to facilitate remote instruction (please see technology section above). University officials will provide students with as much advanced notice and information as possible if the transition to all-online instruction becomes necessary. 
+
+Please remember, all official notifications are made through your official A-State email account, the university website, and Blackboard Learn. You are responsible for checking your university email to ensure you receive the latest updates regarding this course. This is very much a fluid situation that could change quickly from one class meeting to the next. Given our relatively small room size and larger classroom size we will plan to meet in person each week per university guidelines. If conditions change, we will alter our course meeting place, delivery format, and materials as needed. Further information on the pandemic, and the university response, can be found here: <https://www.astate.edu/safety/novel-coronavirus/return-to-learn/>.
+
 
 ### Grading Policy
 
