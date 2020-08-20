@@ -46,10 +46,6 @@ lessons:
     content: "06-content"
     example: "06-example"
     assignment: "06-exercise"
-	
-  - title: '<i class="fas fa-star"></i> **Mid-Term Exam**'
-    date: "October 6"
-    assignment: "01-mini-project"
    
   - title: 'Relationships'
     session: 7
