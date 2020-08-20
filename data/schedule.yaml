@@ -2,36 +2,30 @@ lessons:
   - title: '<span class="fake-header-table">Foundations</span>'
     header: True
 
-  - title: 'Truth, beauty, and data + R and tidyverse'
+  - title: 'Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra'
     session: 1
-    date: "May 11"
+    date: "August 25"
     content: "01-content"
-    lesson: "01-lesson"
     example: "01-example"
     assignment: "01-exercise"
 
   - title: 'Graphic design'
     session: 2
-    date: "May 12"
+    date: "September 1"
     content: "02-content"
-    lesson: "02-lesson"
     example: "02-example"
     assignment: "02-exercise"
  
   - title: 'Mapping data to graphics'
     session: 3
-    date: "May 13"
+    date: "September 8"
     content: "03-content"
-    lesson: "03-lesson"
     example: "03-example"
     assignment: "03-exercise"
 
-  - title: '<span class="fake-header-table">Core types of graphics</span>'
-    header: True
-
   - title: 'Amounts and proportions'
     session: 4
-    date: "May 14"
+    date: "September 15"
     content: "04-content"
     lesson: "04-lesson"
     example: "04-example"
@@ -39,7 +33,7 @@ lessons:
 
   - title: 'Themes'
     session: 5
-    date: "May 15"
+    date: "September 22"
     content: "05-content"
     lesson: "05-lesson"
     example: "05-example"
@@ -47,7 +41,7 @@ lessons:
     
   - title: 'Uncertainty'
     session: 6
-    date: "May 18"
+    date: "September 29"
     content: "06-content"
     lesson: "06-lesson"
     example: "06-example"
