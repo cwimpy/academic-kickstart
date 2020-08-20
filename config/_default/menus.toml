@@ -17,21 +17,26 @@
   name = "Content"
   url = "content"
   weight = 30
+  
+[[main]]
+  name = "Assignments"
+  url = "assignment"
+  weight = 40
 
 [[main]]
   name = "Resources"
   url = "resource"
-  weight = 40
+  weight = 50
   
 [[main]]
   name = '<i class="fab fa-slack"></i>'
   url = "https://posc-6013.slack.com"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = '<i class="fab fa-r-project"></i>'
   url = "https://www.r-project.org"
-  weight = 60
+  weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.
