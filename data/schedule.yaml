@@ -47,7 +47,7 @@ lessons:
     example: "06-example"
     assignment: "06-exercise"
 
-  - title: '<i class="fas fa-star"></i>  **Mid-Term Exam** <i class="fas fa-star"></i>'
+  - title: '<i class="fas fa-brain"></i>  **Mid-Term Exam** <i class="fas fa-brain"></i>'
     date: "October 6"
     assignment: "01-mini-project"
 
@@ -122,6 +122,6 @@ lessons:
     example: "15-example"
     assignment: "15-exercise"
 
-  - title: '<i class="fas fa-star"></i>  **FinalExam** <i class="fas fa-star"></i>'
+  - title: '<i class="fas fa-brain"></i>  **FinalExam** <i class="fas fa-brain"></i>'
     date: "December 15"
     assignment: "final-project"
