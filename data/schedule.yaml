@@ -1,5 +1,5 @@
 lessons:
-  - title: '<span class="fake-header-table">Foundations</span>'
+  - title: '<span class="fake-header-table">Topics</span>'
     header: True
 
   - title: 'Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra'
@@ -35,7 +35,6 @@ lessons:
     session: 5
     date: "September 22"
     content: "05-content"
-    lesson: "05-lesson"
     example: "05-example"
     assignment: "05-exercise"
     
@@ -43,96 +42,72 @@ lessons:
     session: 6
     date: "September 29"
     content: "06-content"
-    lesson: "06-lesson"
     example: "06-example"
     assignment: "06-exercise"
    
-  - title: 'Relationships'
-    session: 7
-    date: "May 19"
-    content: "07-content"
-    lesson: "07-lesson"
-    example: "07-example"
-    assignment: "07-exercise"
-
+  - title: '<i class="fas fa-star"></i> **Mid-Term Exam**'
+    date: "October 6"
+    assignment: "01-mini-project"
+	
   - title: 'Comparisons'
     session: 8
-    date: "May 20"
+    date: "October 13"
     content: "08-content"
-    lesson: "08-lesson"
     example: "08-example"
     assignment: "08-exercise"
 
   - title: 'Annotations'
     session: 9
-    date: "May 21"
+    date: "October 20"
     content: "09-content"
-    lesson: "09-lesson"
     example: "09-example"
     assignment: "09-exercise"
-
-  - title: '<i class="fas fa-star"></i> **Mini project 1 due**'
-    date: "May 22"
-    assignment: "01-mini-project"
-
-  - title: '<span class="fake-header-table">Special applications</span>'
-    header: True
+	
+  - title: 'Interactivity'
+    session: 10
+    date: "October 27"
+    content: "10-content"
+    example: "10-example"
+    assignment: "10-exercise"
 
   - title: 'Interactivity'
     session: 10
-    date: "May 22"
+    date: "November 3"
     content: "10-content"
-    lesson: "10-lesson"
     example: "10-example"
     assignment: "10-exercise"
     
   - title: 'Time'
     session: 11
-    date: "May 26"
+    date: "November 10"
     content: "11-content"
-    lesson: "11-lesson"
     example: "11-example"
     assignment: "11-exercise"
 
   - title: 'Space'
     session: 12
-    date: "May 27"
+    date: "November 17"
     content: "12-content"
-    lesson: "12-lesson"
     example: "12-example"
     assignment: "12-exercise"
 
+  - title: '<i class="fas fa-turkey"></i> **Fall Break**'
+    date: "November 24"
+
   - title: 'Text'
     session: 13
-    date: "May 28"
+    date: "December 1"
     content: "13-content"
-    lesson: "13-lesson"
     example: "13-example"
     assignment: "13-exercise"
 
   - title: 'Enhancing graphics'
     session: 14
-    date: "May 29"
+    date: "December 8"
     content: "14-content"
-    lesson: "14-lesson"
     example: "14-example"
     assignment: "14-exercise"
 
-  - title: '<i class="fas fa-star"></i> **Mini project 2 due**'
-    date: "May 29"
-    assignment: "02-mini-project"
-
-  - title: '<span class="fake-header-table">Conclusions</span>'
-    header: True
-
-  - title: 'Truth, beauty, and data revisited'
-    session: 15
-    date: "June 1"
-    content: "15-content"
-    lesson: "15-lesson"
-    example: "15-example"
-    assignment: "15-exercise"
-
-  - title: '<i class="fas fa-star"></i> **Final project due**'
-    date: "June 5"
+  - title: '<i class="fas fa-star"></i> **Final Exam**'
+    date: "December 15"
     assignment: "final-project"
