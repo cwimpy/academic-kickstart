@@ -16,9 +16,9 @@ This course focuses on the: *Quantitative analysis of political phenomena, inclu
 
 2. Develop the ability to propose and understand graduate-level research design and implementation.
 
-3. Develop knowledge of advanced statistical tools, such linear regression, sampling, surveys, and hypothesis tests.
+3. Develop knowledge of advanced statistical tools such as linear regression, time series, limited dependent variable models, spatial models, and other tools related to being a professional scientist.
 
-4.  Develop acumen in probability theory, such as conditional probability, the law of averages, expected values, and estimates of uncertainty.
+4. Develop acumen in probability theory, such as conditional probability, the law of averages, expected values, and estimates of uncertainty.
 
 5. Develop the ability to evaluate empirical arguments, use `Stata` to implement basic statistical tools, and clearly explain data and analysis in an honest and compelling manner.
 
@@ -28,7 +28,7 @@ This course focuses on the: *Quantitative analysis of political phenomena, inclu
 
 Your development will be demonstrated by your ability to:
 
-1. Evaluate econometric and statistical problems using `Stata`.
+1. Solve econometric and statistical problems using `Stata`.
 2. Identify appropriate techniques and functions for evaluating advanced quantitative research problems. 
 3. Apply advanced problem-solving and data analysis skills to theoretical problems from the literature.
 
@@ -111,17 +111,16 @@ The grading system will follow the [A-State convention](https://www.astate.edu/c
 
 ### E-mail Policy
 
-When e-mailing, please put POSC 6013: "Your Subject Here" in the subject field. Please also use proper openings and closings to the email. Grammatically correct and polite e-mails relieve much better responses than the alternatives.
+When e-mailing, please put POSC 6013: "Your Subject Here" in the subject field. Please also use proper openings and closings to the email. Grammatically correct and polite e-mails receive much better responses than the alternatives.
 
 #### E-mail and Help Policy Regarding `Stata`
 
-If you have an issue with writing code in `Stata`---and most people do---please do the following:
+If you have an issue with executing and writing code in `Stata`---and most people do---please do the following:
 
 1. Search for the issue/error online. There are many resources and a vibrant online community for `Stata`.
-2. Ask a classmate for help. You can work together on both assignments and the take-home portion of the exams. After all, this is how we work in the real world. Be sure to make the work your own, however, and verbatim copying will be at least questioned by Dr. Wimpy.
+2. Ask a classmate for help. 
 3. Post a question on the course Slack.
-4. E-mail the Graduate Assistant (if applicable).
-5. E-mail the Professor.
+4. E-mail the Professor.
 
 With respect to the last three options, you MUST provide a basic working example in order to expect a response. If you say: "hey, my `Stata` don't work", I will expect everyone to ignore you. On the other hand, for example, if you get an error when you enter:
 
@@ -137,7 +136,7 @@ into the `Stata` command line, then you should expect to get helpful feedback fr
 
 ### Make-Up Exam Policy
 
-There are no make-ups for missed exams unless there is a valid excuse. Don't bother asking.
+There are no make-ups for missed exams unless there is a valid excuse (during these times I understand valid excuses are likely).
 
 ### Academic Dishonesty Policy
 
@@ -151,5 +150,5 @@ Any student in this course who has a disability that may prevents full participa
 
 ### Copyright & Fair Use Statement
 
-The materials used in this course are subject to copyright laws. For those materials which neither I nor A-State owns the copyright, I have either obtained a license for use or am using the materials in a manner that I reasonably believe is in compliance with the Fair Use exception to the copyright laws. The other materials used in this course are copyrighted. By this, I mean all materials generated for this class, which include but are not limited to syllabi, exams, lectures, quizzes, assignments, and any other document I post in Blackboard. Because these items are copyrighted, you do not have the right to copy and distribute any course materials unless I, or the document publishers, expressly grant permission.
+The materials used in this course are subject to copyright laws. For those materials which neither I nor A-State owns the copyright, I have either obtained a license for use or am using the materials in a manner that I reasonably believe is in compliance with the Fair Use exception to the copyright laws. The other materials used in this course are copyrighted. By this, I mean all materials generated for this class, which include but are not limited to syllabi, exams, lectures, quizzes, assignments, and any other document I may post. Because these items are copyrighted, you do not have the right to copy and distribute any course materials unless I, or the document publishers, expressly grant permission. Otherwise, the code for this website is openly licensed and free to use. 
 
