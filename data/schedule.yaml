@@ -9,21 +9,21 @@ lessons:
     example: "01-example"
     assignment: "01-exercise"
 
-  - title: 'The Linear Model in Matrix Algebra: A Look Under the Hood'
+  - title: 'The Linear Model in Matrix Algebra'
     session: 2
     date: "September 1"
     content: "02-content"
     example: "02-example"
     assignment: "02-exercise"
  
-  - title: 'The Linear Model in Practice I: Assumptions, Violations, and Generalizations'
+  - title: 'Assumptions, Violations, and Generalizations'
     session: 3
     date: "September 8"
     content: "03-content"
     example: "03-example"
     assignment: "03-exercise"
 
-  - title: 'The Linear Model in Practice II: Interactions, Marginal Effects, and Simulating Quantities of Interest'
+  - title: 'Interactions, Marginal Effects, and Simulating Quantities of Interest'
     session: 4
     date: "September 15"
     content: "04-content"
@@ -33,14 +33,14 @@ lessons:
   - title: '<span class="fake-header-table">Dynamic Political Analysis</span>'
     header: True
 
-  - title: 'Themes'
+  - title: 'Time Series'
     session: 5
     date: "September 22"
     content: "05-content"
     example: "05-example"
     assignment: "05-exercise"
     
-  - title: 'Uncertainty'
+  - title: 'Pooled Time Series'
     session: 6
     date: "September 29"
     content: "06-content"
@@ -54,14 +54,14 @@ lessons:
   - title: '<span class="fake-header-table">Limited Dependent Variables</span>'
     header: True
 
-  - title: 'Comparisons'
+  - title: 'Binary Response Models'
     session: 7
     date: "October 13"
     content: "08-content"
     example: "08-example"
     assignment: "08-exercise"
 
-  - title: 'Annotations'
+  - title: 'Ordered, Multinomial, and Count Models'
     session: 8
     date: "October 20"
     content: "09-content"
@@ -71,21 +71,21 @@ lessons:
   - title: '<span class="fake-header-table">Spatial Regression Models</span>'
     header: True
 
-  - title: 'Interactivity'
+  - title: 'Introduction to Interdependence'
     session: 9
     date: "October 27"
     content: "10-content"
     example: "10-example"
     assignment: "10-exercise"
     
-  - title: 'Time'
+  - title: 'The SAR and SLX Models'
     session: 10
     date: "November 3"
     content: "11-content"
     example: "11-example"
     assignment: "11-exercise"
 
-  - title: 'Space'
+  - title: 'Interpreting Spatial Models'
     session: 11
     date: "November 10"
     content: "12-content"
@@ -95,14 +95,14 @@ lessons:
   - title: '<span class="fake-header-table">Casual Inference</span>'
     header: True
 
-  - title: 'Text'
+  - title: 'A Very Brief Introduction'
     session: 12
     date: "November 17"
     content: "13-content"
     example: "13-example"
     assignment: "13-exercise"
 
-  - title: '<i class="fas fa-drumstick"></i>**Fall Break**'
+  - title: '<i class="fas fa-drumstick-bite"></i>**Fall Break**'
     date: "November 24"
 
   - title: '<span class="fake-header-table">Political Science in Practice</span>'
