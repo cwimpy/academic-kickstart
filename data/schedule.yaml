@@ -47,7 +47,7 @@ lessons:
     example: "06-example"
     assignment: "06-exercise"
 
-  - title: '<i class="fas fa-star"></i> **Mid-Term Exam** <i class="fas fa-star"></i>'
+  - title: '<i class="fas fa-star"></i>  **Mid-Term Exam** <i class="fas fa-star"></i>'
     date: "October 6"
     assignment: "01-mini-project"
 
@@ -102,7 +102,7 @@ lessons:
     example: "13-example"
     assignment: "13-exercise"
 
-  - title: '<i class="fas fa-drumstick-bite"></i> **Fall Break** <i class="fas fa-drumstick-bite"></i>'
+  - title: '<i class="fas fa-drumstick-bite"></i>  **Fall Break** <i class="fas fa-drumstick-bite"></i>'
     date: "November 24"
 
   - title: '<span class="fake-header-table">Political Science in Practice</span>'
@@ -122,6 +122,6 @@ lessons:
     example: "15-example"
     assignment: "15-exercise"
 
-  - title: '<i class="fas fa-star"></i> **FinalExam** <i class="fas fa-star"></i>'
+  - title: '<i class="fas fa-star"></i>  **FinalExam** <i class="fas fa-star"></i>'
     date: "December 15"
     assignment: "final-project"
