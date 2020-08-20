@@ -51,6 +51,9 @@ lessons:
     date: "October 6"
     assignment: "01-mini-project"
 
+  - title: '<span class="fake-header-table">Limited Dependent Variables</span>'
+    header: True
+
   - title: 'Comparisons'
     session: 7
     date: "October 13"
@@ -60,57 +63,65 @@ lessons:
 
   - title: 'Annotations'
     session: 8
-    date: "May 21"
+    date: "October 20"
     content: "09-content"
     example: "09-example"
     assignment: "09-exercise"
 
-  - title: '<i class="fas fa-drumstick-bite"></i> **Mini project 1 due**'
-    date: "May 22"
-    assignment: "01-mini-project"
+  - title: '<span class="fake-header-table">Spatial Regression Models</span>'
+    header: True
 
   - title: 'Interactivity'
     session: 9
-    date: "May 22"
+    date: "October 27"
     content: "10-content"
     example: "10-example"
     assignment: "10-exercise"
     
   - title: 'Time'
     session: 10
-    date: "May 26"
+    date: "November 3"
     content: "11-content"
     example: "11-example"
     assignment: "11-exercise"
 
   - title: 'Space'
     session: 11
-    date: "May 27"
+    date: "November 10"
     content: "12-content"
     example: "12-example"
     assignment: "12-exercise"
 
+  - title: '<span class="fake-header-table">Casual Inference</span>'
+    header: True
+
   - title: 'Text'
     session: 12
-    date: "May 28"
+    date: "November 17"
     content: "13-content"
     example: "13-example"
     assignment: "13-exercise"
 
-  - title: 'Enhancing graphics'
+  - title: '<i class="fas fa-turkey"></i>**Fall Break**'
+    date: "November 24"
+
+  - title: '<span class="fake-header-table">Political Science in Practice</span>'
+    header: True
+
+  - title: 'Publishing, Reproducibility, and Strategies'
     session: 13
-    date: "May 29"
+    date: "December 1"
     content: "14-content"
     example: "14-example"
     assignment: "14-exercise"
 
-  - title: 'Truth, beauty, and data revisited'
+  - title: 'Tools of the Trade'
     session: 14
-    date: "June 1"
+    date: "December 8"
     content: "15-content"
     example: "15-example"
     assignment: "15-exercise"
 
-  - title: '<i class="fas fa-star"></i> **Final project due**'
-    date: "June 5"
+  - title: '<i class="fas fa-star"></i> **FinalExam**'
+    date: "December 15"
     assignment: "final-project"
