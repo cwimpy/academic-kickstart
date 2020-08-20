@@ -1,5 +1,5 @@
 lessons:
-  - title: '<span class="fake-header-table">Topics</span>'
+  - title: '<span class="fake-header-table">The Linear Model</span>'
     header: True
 
   - title: 'Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra'
@@ -30,6 +30,9 @@ lessons:
     example: "04-example"
     assignment: "04-exercise"
 
+  - title: '<span class="fake-header-table">Dynamic Political Analysis</span>'
+    header: True
+
   - title: 'Themes'
     session: 5
     date: "September 22"
@@ -49,14 +52,14 @@ lessons:
     assignment: "01-mini-project"
 
   - title: 'Comparisons'
-    session: 8
-    date: "May 20"
+    session: 7
+    date: "October 13"
     content: "08-content"
     example: "08-example"
     assignment: "08-exercise"
 
   - title: 'Annotations'
-    session: 9
+    session: 8
     date: "May 21"
     content: "09-content"
     example: "09-example"
@@ -67,42 +70,42 @@ lessons:
     assignment: "01-mini-project"
 
   - title: 'Interactivity'
-    session: 10
+    session: 9
     date: "May 22"
     content: "10-content"
     example: "10-example"
     assignment: "10-exercise"
     
   - title: 'Time'
-    session: 11
+    session: 10
     date: "May 26"
     content: "11-content"
     example: "11-example"
     assignment: "11-exercise"
 
   - title: 'Space'
-    session: 12
+    session: 11
     date: "May 27"
     content: "12-content"
     example: "12-example"
     assignment: "12-exercise"
 
   - title: 'Text'
-    session: 13
+    session: 12
     date: "May 28"
     content: "13-content"
     example: "13-example"
     assignment: "13-exercise"
 
   - title: 'Enhancing graphics'
-    session: 14
+    session: 13
     date: "May 29"
     content: "14-content"
     example: "14-example"
     assignment: "14-exercise"
 
   - title: 'Truth, beauty, and data revisited'
-    session: 15
+    session: 14
     date: "June 1"
     content: "15-content"
     example: "15-example"
