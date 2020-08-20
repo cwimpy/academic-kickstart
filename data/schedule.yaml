@@ -102,7 +102,7 @@ lessons:
     example: "13-example"
     assignment: "13-exercise"
 
-  - title: '<i class="fas fa-drumstick-bite"></i>**Fall Break**'
+  - title: '<i class="fas fa-drumstick-bite"></i> **Fall Break**'
     date: "November 24"
 
   - title: '<span class="fake-header-table">Political Science in Practice</span>'
