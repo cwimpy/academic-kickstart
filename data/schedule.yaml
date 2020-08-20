@@ -23,24 +23,24 @@ lessons:
     example: "03-example"
     assignment: "03-exercise"
 
+  - title: '<span class="fake-header-table">Core types of graphics</span>'
+    header: True
+
   - title: 'The Linear Model in Practice II: Interactions, Marginal Effects, and Simulating Quantities of Interest'
     session: 4
     date: "September 15"
     content: "04-content"
     example: "04-example"
     assignment: "04-exercise"
-	
-  - title: '<span class="fake-header-table">Dynamic Political Analysis</span>'
-    header: True
 
-  - title: 'Pooled Time Series: Modeling Time and Controlling for Space'
+  - title: 'Themes'
     session: 5
     date: "September 22"
     content: "05-content"
     example: "05-example"
     assignment: "05-exercise"
     
-  - title: 'Poo'
+  - title: 'Uncertainty'
     session: 6
     date: "September 29"
     content: "06-content"
