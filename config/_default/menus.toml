@@ -37,6 +37,11 @@
   name = '<i class="fab fa-r-project"></i>'
   url = "https://www.r-project.org"
   weight = 70
+  
+[[main]]
+  name = '`Stata`'
+  url = "https://stata.com"
+  weight = 80
 
 
 # Link to a PDF of your resume/CV from the menu.
