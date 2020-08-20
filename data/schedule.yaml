@@ -69,9 +69,6 @@ lessons:
     date: "May 22"
     assignment: "01-mini-project"
 
-  - title: '<span class="fake-header-table">Special applications</span>'
-    header: True
-
   - title: 'Interactivity'
     session: 10
     date: "May 22"
@@ -106,13 +103,6 @@ lessons:
     content: "14-content"
     example: "14-example"
     assignment: "14-exercise"
-
-  - title: '<i class="fas fa-star"></i> **Mini project 2 due**'
-    date: "May 29"
-    assignment: "02-mini-project"
-
-  - title: '<span class="fake-header-table">Conclusions</span>'
-    header: True
 
   - title: 'Truth, beauty, and data revisited'
     session: 15
