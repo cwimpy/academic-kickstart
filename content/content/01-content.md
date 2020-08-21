@@ -1,11 +1,11 @@
 ---
-title: "Truth, beauty, and data + R and tidyverse"
-linktitle: "1: Truth, beauty, and data + the tidyverse"
-date: "2020-05-11"
-read_date: "2020-05-11"
+title: "Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra"
+linktitle: "1: Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra"
+date: "2020-08-20"
+read_date: "2020-08-25"
 menu:
   content:
-    parent: Course content
+    parent: Course Content
     weight: 1
 type: docs
 ---
