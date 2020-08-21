@@ -1,8 +1,8 @@
 ---
-title: Course Content
+title: Lectures and Slides
 menu:
   resource:
-    parent: Content
+    parent: Overview
 type: docs
 weight: -1
 ---
