@@ -1,8 +1,8 @@
 ---
-title: Readings and Slides
+title: Course Content
 menu:
-  content:
-    parent: Overview
+  resource:
+    parent: Content
 type: docs
 weight: -1
 ---

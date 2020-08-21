@@ -1,12 +1,10 @@
 ---
 title: "Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra"
-slug: "1-Introduction"
-date: "2020-08-25"
 menu:
   content:
-    parent: Course content
-    weight: 1
+    parent: Content
 type: docs
+weight: 1
 ---
 
 ## Readings
