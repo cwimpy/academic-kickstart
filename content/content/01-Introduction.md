@@ -2,9 +2,9 @@
 title: "Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra"
 menu:
   content:
-    parent: Content
+    parent: Course Content
 type: docs
-weight: 1
+weight: 2
 ---
 
 ## Readings
