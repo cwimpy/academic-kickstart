@@ -8,9 +8,6 @@ menu:
     parent: Course content
     weight: 1
 type: docs
-output:
-  blogdown::html_page:
-    toc: true
 ---
 
 ## Readings
