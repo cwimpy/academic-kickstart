@@ -1,13 +1,11 @@
 ---
-title: "Truth, beauty, and data + R and tidyverse"
-linktitle: "1: Truth, beauty, and data + the tidyverse"
-date: "2020-05-11"
-read_date: "2020-05-11"
+title: "Introduction"
+date: "2020-05-06"
 menu:
-  content:
-    parent: Course content
-    weight: 1
+  resource:
+    parent: Course Content
 type: docs
+weight: 4
 ---
 
 ## Readings
