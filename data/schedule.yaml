@@ -2,7 +2,7 @@ lessons:
   - title: '<span class="fake-header-table">The Linear Model</span>'
     header: True
 
-  - title: 'Introduction | Review of Linear Regression (in scalar notation) and Matrix Algebra'
+  - title: 'Introduction | Review of Linear Regression (in scalar notation) and Mini Math Refresher'
     session: 1
     date: "August 25"
     content: "01-content"
