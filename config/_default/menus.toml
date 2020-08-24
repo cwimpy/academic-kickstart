@@ -57,5 +57,9 @@
   weight = 10
   
 [[assignment]]
-  name = "Stata"
+  name = "Assignments"
   weight = 20
+  
+[[assignment]]
+  name = "Stata"
+  weight = 30
