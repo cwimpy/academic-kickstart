@@ -1,0 +1,23 @@
+---
+title: Assignments overview
+menu:
+  assignment:
+    parent: Overview
+    weight: 1
+type: docs
+weight: 1
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+You will get the most of out this class if you:
+
+1. Complete all of the readings and pay attention to the lectures
+2. Really learn to use `Stata`
+
+All of the assignments are designed to help with one of these goals. 
+
+## `Stata` Assignments
+
+Each week you will be asked to complete one or more assignments in Stata. 
