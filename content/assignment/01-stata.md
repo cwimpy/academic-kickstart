@@ -15,7 +15,7 @@ type: docs
 
 2. Create a new Do file and add this header (with your relevant information):
 
-```
+```{Stata}
 version 16.1
 clear
 log using "filename.smcl", replace
@@ -34,7 +34,7 @@ cd "~/Desktop/"
 *=     Previous file:  n/a                                                   ==
 *=     Software:       Stata 16.0                                            ==
 *=     Machine:        Macbook Pro                                           == 
-*=     System:         10.15.3												 ==
+*=     System:         10.15.3                                               ==
 *==============================================================================
 *==============================================================================
 ```
