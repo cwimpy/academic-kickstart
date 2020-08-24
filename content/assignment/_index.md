@@ -1,7 +1,7 @@
 ---
 title: Assignments
 menu:
-  content:
+  assignment:
     parent: Overview
     weight: 1
 type: docs
