@@ -51,3 +51,11 @@
 [[content]]
   name = "Course Content"
   weight = 20
+  
+[[assignment]]
+  name = "Overview"
+  weight = 10
+  
+[[assignment]]
+  name = "Stata"
+  weight = 20

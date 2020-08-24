@@ -3,7 +3,7 @@ title: "Up and Running with Stata"
 linktitle: "1: Stata"
 date: "2020-08-20"
 menu:
-  content:
+  assignment:
     parent: Stata
     weight: 1
 type: docs
