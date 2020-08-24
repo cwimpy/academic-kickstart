@@ -5,11 +5,10 @@ date: "2020-08-30"
 due_date: "2020-05-11"
 due_time: "11:59 PM"
 menu:
-  assignment:
+  content:
     parent: Stata
     weight: 1
 type: docs
-weight: 1
 ---
 
 # `Stata` Assignment #1
