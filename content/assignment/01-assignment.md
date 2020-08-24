@@ -1,10 +1,10 @@
 ---
 title: "Understanding Regression"
-linktitle: "1: Assignment"
+linktitle: "1: Understanding Regression"
 date: "2020-08-25"
 menu:
   assignment:
-    parent: Assignments
+    parent: Substance
     weight: 1
 type: docs
 ---

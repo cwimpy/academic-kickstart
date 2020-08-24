@@ -9,7 +9,8 @@ menu:
 type: docs
 ---
 
-# `Stata` Assignment #1
+
+## `Stata` Assignment #1
 
 1. Make sure you can download and install `Stata` from the [A-State software downloads page](https://www.astate.edu/a/its/software-downloads/).
 
