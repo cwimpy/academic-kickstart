@@ -92,7 +92,7 @@ lessons:
     example: "12-example"
     assignment: "12-exercise"
 
-  - title: '<span class="fake-header-table">Casual Inference</span>'
+  - title: '<span class="fake-header-table">Causal Inference</span>'
     header: True
 
   - title: 'A Very Brief Introduction'
