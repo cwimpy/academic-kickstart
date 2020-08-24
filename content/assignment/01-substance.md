@@ -9,6 +9,6 @@ menu:
 type: docs
 ---
 
-# Assignment #1
+## Assignment #1
 
 1. Complete this assignment on Blackboard. 
