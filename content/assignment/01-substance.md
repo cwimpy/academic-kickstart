@@ -1,13 +1,14 @@
 ---
-title: "Understanding Regression"
-linktitle: "1: Understanding Regression"
-date: "2020-08-25"
+title: "Up and Running with Stata"
+linktitle: "1: Regression"
+date: "2020-08-20"
 menu:
   assignment:
     parent: Substance
     weight: 1
 type: docs
 ---
+
 
 ## Assignment #1
 
