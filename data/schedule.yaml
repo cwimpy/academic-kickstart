@@ -9,7 +9,7 @@ lessons:
     example: "01-example"
     assignment: "01-exercise"
 
-  - title: 'The Linear Model in Matrix Algebra'
+  - title: 'The Linear Model from Another Angle'
     session: 2
     date: "September 1"
     content: "02-content"
