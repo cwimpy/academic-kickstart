@@ -15,6 +15,7 @@ type: docs
 
 2. Create a new Do file and add this header (with your relevant information):
 
+<pre class="sh_stata">
 ```{Stata}
 version 16.1
 clear
@@ -38,6 +39,7 @@ cd "~/Desktop/"
 *==============================================================================
 *==============================================================================
 ```
+</pre>
 
 3. Open the `auto` dataset and estimate a linear regression model with `mpg` as the dependent variable and `weight` as the predictor. 
 

@@ -1,0 +1,1 @@
+<script type="text/javascript" src='http://haghish.com/statax/Statax.js'></script>
