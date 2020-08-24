@@ -8,6 +8,8 @@ type: docs
 weight: 4
 ---
 
+**Note:** This resource was borrowed from Andrew Heiss [here](https://datavizm20.classes.andrewheiss.com/resource/unzipping/).
+
 Because RStudio projects typically consist of multiple files (R scripts, datasets, graphical output, etc.) the easiest way to distribute them to you for examples, assignments, and projects is to combine all the different files in to a single compressed collection called a **zip file**. When you unzip a zipped file, your operating system extracts all the files that are contained inside into a new folder on your computer.
 
 Unzipping files on macOS is trivial, but unzipping files on Windows can mess you up if you don't pay careful attention. Here's a helpful guide to unzipping files on both macOS and Windows.
