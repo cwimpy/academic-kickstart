@@ -6,7 +6,7 @@ due_date: "2020-05-11"
 due_time: "11:59 PM"
 menu:
   content:
-    parent: Stata
+    parent: Assignments
     weight: 1
 type: docs
 ---
