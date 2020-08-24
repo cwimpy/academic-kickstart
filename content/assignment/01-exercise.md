@@ -1,12 +1,10 @@
 ---
-title: " Up and Running with Stata"
-linktitle: "1: Up and Running with Stata"
-date: "2020-08-30"
-due_date: "2020-05-11"
-due_time: "11:59 PM"
+title: "Up and Running with Stata"
+linktitle: "1: Stata"
+date: "2020-08-20"
 menu:
   content:
-    parent: Assignments
+    parent: Course Content
     weight: 1
 type: docs
 ---
