@@ -4,7 +4,7 @@ linktitle: "1: Stata"
 date: "2020-08-20"
 menu:
   content:
-    parent: Course Content
+    parent: Stata
     weight: 1
 type: docs
 ---
