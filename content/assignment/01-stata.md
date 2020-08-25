@@ -10,6 +10,8 @@ type: docs
 ---
 
 
+For the substantive assignment [click here](https://posc6013.science/assignment/01-substance/). 
+
 ## `Stata` Assignment #1
 
 1. Make sure you can download and install `Stata` from the [A-State software downloads page](https://www.astate.edu/a/its/software-downloads/).
