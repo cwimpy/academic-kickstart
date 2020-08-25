@@ -8,6 +8,7 @@ lessons:
     content: "01-content"
     example: "01-example"
     assignment: "01-stata"
+	assignment: "01-substance"
 
   - title: 'The Linear Model from Another Angle'
     session: 2
