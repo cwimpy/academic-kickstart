@@ -11,7 +11,8 @@
 
       	  	<td style="width:8%;text-align:center" class="mid-table-header">Content</td>
        	 	<td style="width:8%;text-align:center" class="mid-table-header">Examples</td>
-       	 	<td style="width:8%;text-align:center" class="mid-table-header">Assignments</td>
+       	 	<td style="width:8%;text-align:center" class="mid-table-header">Stata Assignment</td>
+       	 	<td style="width:8%;text-align:center" class="mid-table-header">Substance Assignment</td>
 
             {{- else }}
 
@@ -56,6 +57,14 @@
             </td>
             {{- end }}
 
+            {{- if .assignment }}
+            <td align="center" style="width:10%;text-align:center"><a href="{{ .Site.baseurl }}/assignment/{{ .assignment }}/">
+                    <i class="fas fa-pencil-ruler fa-lg"></i></a></td>
+            {{- else }}
+            <td align="center" style="width:10%;text-align:center">
+                <font color="f1f1f1">
+                    <i class="fas fa-pencil-ruler fa-lg"></i></font>
+            </td>
             {{- end }}
         </tr>
         {{- end }}
