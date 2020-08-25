@@ -12,9 +12,10 @@ type: docs
 
 ## Readings
 
-- The [syllabus](/syllabus/), [content](/content/), [examples](/example/), and [assignments](/assigment/) pages for this meeting
-- <i class="fas fa-book"></i> &nbsp;Chapters 9–11 in Kellstedt and Whitten
-- <p class="hangingindent"><i class="fas fa-newspaper"></i> &nbsp;Hill, Kim Quaile. 2004. "Myths about the Physical Sciences and Their Implications for Teaching Political Science."  <em>PS: Political Science & Politics </em> (37) 3: 467–471.</p>
-- <p class="hangingindent"><i class="fas fa-newspaper"></i> &nbsp;Nagler, Jonathan. 1995. "Coding Style and Good Computing Practices."  <em>PS: Political Science & Politics </em> (28) 3: 488–492.
+1. The [syllabus](/syllabus/), [content](/content/), [examples](/example/), and [assignments](/assigment/) pages for this meeting
+
+2. <i class="fas fa-book"></i> &nbsp;Chapters 9–11 in Kellstedt and Whitten
+<p class="hangingindent">3.<i class="fas fa-newspaper"></i> &nbsp;Hill, Kim Quaile. 2004. "Myths about the Physical Sciences and Their Implications for Teaching Political Science."  <em>PS: Political Science & Politics </em> (37) 3: 467–471.</p>
+<p class="hangingindent">4.<i class="fas fa-newspaper"></i> &nbsp;Nagler, Jonathan. 1995. "Coding Style and Good Computing Practices."  <em>PS: Political Science & Politics </em> (28) 3: 488–492.
 
 
