@@ -15,7 +15,7 @@ Every course meeting has three important sections. You should read about the det
 **tl;dr**: You should follow this general process each week:
 
 - Do everything on the content (<i class="fas fa-book-reader"></i>) page
-- Complete the assignment (<i class="fas fa-pencil-ruler"></i>) while referencing the example (<i class="fas fa-laptop-code"></i>)
+- Complete the assignments (<i class="fas fa-pencil-ruler"></i> and <i class="fas fa-laptop-code"></i>) while referencing the example (<i class="fas fa-lightbulb"></i>)
 {{% /alert %}}
 
 ---
