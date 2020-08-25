@@ -1,5 +1,5 @@
 ---
-title: "Up and Running with Stata"
+title: "Regression Review"
 linktitle: "1: Regression Review"
 date: "2020-08-20"
 menu:
