@@ -14,6 +14,6 @@ type: docs
 
 - The [syllabus](/syllabus/), [content](/content/), [examples](/example/), and [assignments](/assigment/) pages for this meeting
 - <i class="fas fa-book"></i> &nbsp;Chapters 9–11 in Kellstedt and Whitten
-- <i class="fas fa-newspaper"></i> &nbsp;Hill, Kim Quaile (2004). "Myths about the Physical Sciences and Their Implications for Teaching Political Science." In: *PS: Political Science and Politics* (37) 3: 467–471.
+- <p class="hangingindent"><i class="fas fa-newspaper"></i> &nbsp;Hill, Kim Quaile 2004. "Myths about the Physical Sciences and Their Implications for Teaching Political Science." In: *PS: Political Science and Politics* (37) 3: 467–471.</p>
 
 
