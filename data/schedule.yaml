@@ -7,8 +7,8 @@ lessons:
     date: "August 25"
     content: "01-content"
     example: "01-example"
-    assignment: "01-stata"
-    assignment: "01-substance"
+    assignment1: "01-stata"
+    assignment2: "01-substance"
 
   - title: 'The Linear Model from Another Angle'
     session: 2
