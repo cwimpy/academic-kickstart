@@ -1,7 +1,7 @@
 ---
 title: "The Linear Model from Another Angle"
 linktitle: "2: The Linear Model from Another Angle"
-date: "2020-09-01"
+date: "2020-08-25"
 read_date: "2020-08-25"
 menu:
   content:
