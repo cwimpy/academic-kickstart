@@ -26,4 +26,4 @@ We will also be completing assignments based on the substantive class materials.
 
 ## Submitting Assignments 
 
- **All assignments that require document submission must have filenames that follow this convention: `your last name_assignment#.file extension`.** As an example for myself and assignment one, I would do the following: `wimpy_assignment1.pdf`. Failure to follow this convention will be met first with a warning, second with ten points off, and finally a zero after the third time. All assignments are due via email to Dr. Wimpy on the Sunday before class at 11:59 p.m.
+ **All assignments that require document submission must have filenames that follow this convention: `your last name_assignment#.file extension`.** As an example for myself and assignment one, I would do the following: `wimpy_assignment1.pdf`. Failure to follow this convention will be met first with a warning, second with ten points off, and finally a zero after the third time. All assignments are due via email to Dr. Wimpy on the Monday before class at 11:59 p.m.
