@@ -17,3 +17,4 @@ type: docs
 - <i class="fas fa-book"></i> &nbsp;Chapters 1–4 in Wooldridge 
 
 
+Download the example data [here](https://www.dropbox.com/sh/85pwlvuvra0y2ry/AAD3Gkgfl2-aY4966PGKuasga?dl=1). 
