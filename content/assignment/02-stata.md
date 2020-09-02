@@ -1,6 +1,6 @@
 ---
 title: "Basic Regression in Stata"
-linktitle: "2: Stata"
+linktitle: "2: Basic Regression in Stata"
 date: "2020-09-01"
 menu:
   assignment:

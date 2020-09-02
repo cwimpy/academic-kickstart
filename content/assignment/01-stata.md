@@ -1,6 +1,6 @@
 ---
 title: "Up and Running with Stata"
-linktitle: "1: Stata"
+linktitle: "1: Stata Basics"
 date: "2020-08-20"
 menu:
   assignment:
