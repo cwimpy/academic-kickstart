@@ -1,6 +1,6 @@
 ---
-title: "ore Assumptions, Interactions, Marginal Effects, and Deriving Quantities of Interest"
-linktitle: "4: ore Assumptions, Interactions, Marginal Effects, and Deriving Quantities of Interest"
+title: "More Assumptions, Interactions, Marginal Effects, and Deriving Quantities of Interest"
+linktitle: "4: More Assumptions, Interactions, Marginal Effects, and Deriving Quantities of Interest"
 date: "2020-09-15"
 menu:
   assignment:
