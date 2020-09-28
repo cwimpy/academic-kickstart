@@ -1,8 +1,8 @@
 ---
 title: "Time Series Analysis"
-linktitle: "4: Time Series Analysis"
-date: "2020-09-15"
-read_date: "2020-09-15"
+linktitle: "5: Time Series Analysis"
+date: "2020-09-22"
+read_date: "2020-09-22"
 menu:
   content:
     parent: Course Content
