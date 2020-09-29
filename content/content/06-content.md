@@ -1,6 +1,6 @@
 ---
 title: "Pooled (Cross Sectional) Time Series"
-linktitle: "6: Time Series"
+linktitle: "6: Pooled Time Series"
 date: "2020-09-28"
 read_date: "2020-09-28"
 menu:
