@@ -2,7 +2,7 @@
 title: "Ordered, Multinomoal, and Count Models"
 linktitle: "9: Ordered, Multinomoal, and Count Models"
 date: "2020-10-19"
-read_date: "2020-10-"19
+read_date: "2020-10-19"
 menu:
   content:
     parent: Course Content
