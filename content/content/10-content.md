@@ -2,7 +2,7 @@
 title: "Introduction to Interdependence"
 linktitle: "10: Introduction to Interdependence"
 date: "2020-10-26"
-read_date: "2020-10-26'
+read_date: "2020-10-26"
 menu:
   content:
     parent: Course Content
